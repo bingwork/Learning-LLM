@@ -1,2 +1,2 @@
-# Learning-LlaMA
-Learning LlaMA
+# Learning-LLM
+Learning LLM
